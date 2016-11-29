@@ -1,0 +1,22 @@
+{
+  "name": "csv2json",
+  "version": "1.0.0",
+  "description": "csv to json converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ],
+  "author": "nauty",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "csvtojson": "^1.0.3",
+    "express": "^4.14.0",
+    "fs": "0.0.2",
+    "request": "^2.79.0"
+  }
+}
